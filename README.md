@@ -1,93 +1,139 @@
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dwaving%26color%3D0099ff%26height%3D200%26section%3Dheader%26text%3DAtthiraju%2520Raviteja%26fontSize%3D70%26animation%3DfadeIn" alt="Header" />
+<h1 align="center">Hi 👋, I'm Atthiraju Raviteja</h1>
 
-<h1>🚀 AI Solutions Explorer & Full Stack Developer</h1>
-
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Status-Open%2520To%2520Work-green%3Fstyle%3Dflat-square" alt="Status" />
-<img src="https://www.google.com/search?q=https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME%3Flabel%3DFollowers%26style%3Dflat-square" alt="Followers" />
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DYOUR_GITHUB_USERNAME%26label%3DProfile%2520Views%26color%3D0e75b6%26style%3Dflat-square" alt="Views" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=750&lines=AI+Solutions+Explorer+%26+Developer;B.Tech+in+Artificial+Intelligence+%26+ML;Full+Stack+Developer;Machine+Learning+%7C+XAI+Enthusiast;Hackathon+Participant+%26+Research+Oriented" />
 </p>
 
 <p align="center">
-<a href="mailto:athirajuteja5@gmail.com">📫 Email</a> •
-<a href="YOUR_LINKEDIN_LINK">🔗 LinkedIn</a> •
-<a href="YOUR_PORTFOLIO_LINK">🌐 Portfolio</a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
-</div>
 
-🎓 About Me
+<p align="center">
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github" />
+</p>
 
-I am a final-year B.Tech student in AI & ML at NRI Institute of Technology (CGPA: 8.7). I specialize in bridging the gap between complex AI research and scalable web applications.
+---
 
-🧠 Currently researching Explainable AI (XAI) for medical diagnostics.
+## 🎓 About Me
 
-⚛️ Experienced in Full Stack Development (React/Node.js).
+<p>
+  <img src="https://img.shields.io/badge/Degree-B.Tech%20AI%20%26%20ML-blue?style=for-the-badge&logo=graduation-cap"/>
+  <img src="https://img.shields.io/badge/CGPA-8.7-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Institute-NRI%20Institute%20of%20Technology-orange?style=for-the-badge"/>
+</p>
 
-🏆 Active hackathon participant and open-source contributor.
+💡 Passionate about **Artificial Intelligence, Machine Learning, Full Stack Development, Prompt Engineering**, and **Explainable AI (XAI)**.  
+🚀 I enjoy building **real-world AI solutions**, competing in **hackathons**, and contributing to **research-oriented projects**.
 
-📊 GitHub Analytics
+---
 
-<div align="center">
-<table border="0">
-<tr>
-<td>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_GITHUB_USERNAME%26show_icons%3Dtrue%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D0099ff%26text_color%3D777%26icon_color%3D0099ff" height="150" alt="Stats" />
-</td>
-<td>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_GITHUB_USERNAME%26layout%3Dcompact%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D0099ff%26text_color%3D777" height="150" alt="Languages" />
-</td>
-</tr>
-</table>
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DYOUR_GITHUB_USERNAME%26theme%3Dtransparent%26hide_border%3Dtrue%26stroke%3D0099ff%26ring%3D0099ff%26fire%3D0099ff%26currStreakLabel%3D0099ff" alt="Streak" />
-</div>
+## 🧠 Areas of Interest
 
-🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/Data%20Science-0C2D48?style=for-the-badge&logo=databricks&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Explainable%20AI-4B0082?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-Category
+---
 
-Technologies
+## 💻 Programming Languages
 
-Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
+---
 
+## 🤖 AI & Prompt Engineering
 
-AI / ML
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GPT--3.5-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GPT--4-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GPT--5-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google"/>
+  <img src="https://img.shields.io/badge/Perplexity%20AI-1F1F1F?style=for-the-badge"/>
+</p>
 
+---
 
+## 📚 Libraries & Frameworks
 
-Full Stack
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+</p>
 
+---
 
+## 🧰 Developer Tools
 
-Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab"/>
+</p>
 
+---
 
+## 📊 GitHub Stats
 
-💼 Experience & Projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
-🏢 Infosys Springboard | Full Stack Intern (Aug 2025 - Oct 2025)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
 
-Optimized application load times by 30% using React memoization.
+---
 
-Developed a fully responsive dashboard for data visualization.
+## 🏆 Achievements & Hackathons
 
-🧠 Neuro-Precision Framework | Deep Learning & XAI
+🏅 **AIgnite Hackathon 2025**  
+🏅 **AI-Agents Hackathon – RGUKT (IIIT Nuzvid)**  
 
-Developed an ensemble model (EfficientNet + MobileNet) for brain tumor diagnosis.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&row=1" />
+</p>
 
-Accuracy: 99.2% | Tech: Python, TensorFlow, Grad-CAM (XAI).
+---
 
-☁️ Azure Demand Forecasting | Machine Learning
+## 🌐 Connect With Me
 
-Reduced idle cloud resource costs by 20% via predictive scaling.
+<p align="center">
+  <a href="mailto:athirajuteja5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/atthiraju-raviteja-68aa6b2b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/ravitejaatthiraju/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://ravitejaatthiraju.github.io/My-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox"/>
+  </a>
+  <a href="https://www.youtube.com/@Ravitejaatthiraju">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+  </a>
+</p>
 
-🏆 Recognitions
+---
 
-🏅 Winner - AIgnite Hackathon 2025
-
-🏅 Finalist - AI-Agents Hackathon (IIIT Nuzvid)
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/quote%3Fquote%3DThe%2520best%2520way%2520to%2520predict%2520the%2520future%2520is%2520to%2520invent%2520it.%26author%3DAlan%2520Kay%26theme%3Dtransparent%26text_color%3D0099ff" alt="Quote" />
-</div>
+⭐ **Always curious. Always learning. Building intelligent solutions.**
