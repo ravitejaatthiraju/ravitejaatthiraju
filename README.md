@@ -1,146 +1,93 @@
-<h1 align="center">Hi 👋, I'm Atthiraju Raviteja</h1>
-<h3 align="center">🚀 AI Solutions Explorer & Developer</h3>
+<div align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dwaving%26color%3D0099ff%26height%3D200%26section%3Dheader%26text%3DAtthiraju%2520Raviteja%26fontSize%3D70%26animation%3DfadeIn" alt="Header" />
+
+<h1>🚀 AI Solutions Explorer & Full Stack Developer</h1>
+
+<p>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Status-Open%2520To%2520Work-green%3Fstyle%3Dflat-square" alt="Status" />
+<img src="https://www.google.com/search?q=https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME%3Flabel%3DFollowers%26style%3Dflat-square" alt="Followers" />
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DYOUR_GITHUB_USERNAME%26label%3DProfile%2520Views%26color%3D0e75b6%26style%3Dflat-square" alt="Views" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<a href="mailto:athirajuteja5@gmail.com">📫 Email</a> •
+<a href="YOUR_LINKEDIN_LINK">🔗 LinkedIn</a> •
+<a href="YOUR_PORTFOLIO_LINK">🌐 Portfolio</a>
 </p>
+</div>
 
----
+🎓 About Me
 
-## 🎓 About Me
+I am a final-year B.Tech student in AI & ML at NRI Institute of Technology (CGPA: 8.7). I specialize in bridging the gap between complex AI research and scalable web applications.
 
-🎓 **B.Tech in Artificial Intelligence & Machine Learning**  
-🏫 **NRI Institute of Technology**  
-📊 **CGPA:** 8.7  
+🧠 Currently researching Explainable AI (XAI) for medical diagnostics.
 
-💡 Passionate about **AI, ML, Full Stack Development, Prompt Engineering**, and **Explainable AI**.  
-🚀 I love building **real-world AI solutions**, participating in **hackathons**, and working on **research projects**.
+⚛️ Experienced in Full Stack Development (React/Node.js).
 
----
+🏆 Active hackathon participant and open-source contributor.
 
-## 🧠 Areas of Interest
+📊 GitHub Analytics
 
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white)
-![ML](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
-![Data Science](https://img.shields.io/badge/Data%20Science-0C2D48?style=for-the-badge&logo=databricks&logoColor=red)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![XAI](https://img.shields.io/badge/Explainable%20AI-4B0082?style=for-the-badge&logo=python&logoColor=white)
+<div align="center">
+<table border="0">
+<tr>
+<td>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_GITHUB_USERNAME%26show_icons%3Dtrue%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D0099ff%26text_color%3D777%26icon_color%3D0099ff" height="150" alt="Stats" />
+</td>
+<td>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_GITHUB_USERNAME%26layout%3Dcompact%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D0099ff%26text_color%3D777" height="150" alt="Languages" />
+</td>
+</tr>
+</table>
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DYOUR_GITHUB_USERNAME%26theme%3Dtransparent%26hide_border%3Dtrue%26stroke%3D0099ff%26ring%3D0099ff%26fire%3D0099ff%26currStreakLabel%3D0099ff" alt="Streak" />
+</div>
 
----
+🛠️ Tech Stack
 
-## 💻 Programming Languages
+Category
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+Technologies
 
----
+Languages
 
-## 🤖 AI & Prompt Engineering Tools
 
-<p>
-  <img src="https://img.shields.io/badge/GPT--3.5-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GPT--5-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI%20API-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Perplexity%20AI-1F1F1F?style=for-the-badge&logo=ai&logoColor=white"/>
-</p>
 
----
+AI / ML
 
-## 📚 Libraries & Frameworks
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
 
----
+Full Stack
 
-## 🧰 Developer Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black"/>
-</p>
 
----
+Tools
 
-## 💼 Experience
 
-### 🏢 Full Stack Developer Intern — Infosys Springboard  
-📅 **Aug 2025 – Oct 2025**
 
-- ⚛️ Built scalable applications using **React & Node.js**
-- 🚀 Improved performance with **30% faster load times**
-- 📱 Designed **fully responsive UI**
-- 📊 Final capstone evaluation score: **75%**
+💼 Experience & Projects
 
----
+🏢 Infosys Springboard | Full Stack Intern (Aug 2025 - Oct 2025)
 
-## 🚀 Projects
+Optimized application load times by 30% using React memoization.
 
-### ☁️ Azure Demand Forecasting & Capacity Optimization
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![ML](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+Developed a fully responsive dashboard for data visualization.
 
-- 📈 Forecast accuracy: **85%**
-- ⚙️ Reduced idle resources by **20%**
-- 🤖 Automated cloud resource scaling
+🧠 Neuro-Precision Framework | Deep Learning & XAI
 
----
+Developed an ensemble model (EfficientNet + MobileNet) for brain tumor diagnosis.
 
-### 🧠 Neuro-Precision Framework for Brain Tumor Diagnosis
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![XAI](https://img.shields.io/badge/Grad--CAM-XAI-blueviolet?style=for-the-badge)
+Accuracy: 99.2% | Tech: Python, TensorFlow, Grad-CAM (XAI).
 
-- 🧠 Stacking Ensemble (EfficientNet + MobileNet)
-- 🎯 **99.2% accuracy**
-- ⏱️ Diagnosis time under **60 minutes**
-- 📄 Conference paper *(Under Publication)*
+☁️ Azure Demand Forecasting | Machine Learning
 
----
+Reduced idle cloud resource costs by 20% via predictive scaling.
 
-## 🏆 Hackathons
+🏆 Recognitions
 
-🏅 **AIgnite Hackathon 2025**  
-🏅 **AI-Agents Hackathon – RGUKT (IIIT Nuzvid)**  
+🏅 Winner - AIgnite Hackathon 2025
 
----
+🏅 Finalist - AI-Agents Hackathon (IIIT Nuzvid)
 
-## 🌐 Connect With Me
-
-<p>
-  <a href="mailto:athirajuteja5@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="YOUR_GITHUB_LINK">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-  <a href="YOUR_YOUTUBE_LINK">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
-
----
-
-⭐ *Always curious. Always learning. Building intelligent solutions.*
+<div align="center">
+<img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/quote%3Fquote%3DThe%2520best%2520way%2520to%2520predict%2520the%2520future%2520is%2520to%2520invent%2520it.%26author%3DAlan%2520Kay%26theme%3Dtransparent%26text_color%3D0099ff" alt="Quote" />
+</div>
